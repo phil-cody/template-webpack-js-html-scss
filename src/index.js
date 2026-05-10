@@ -1,3 +1,3 @@
-import './style/style.scss';
+import './style/main.scss';
 
-console.log(connected);
+console.log('connected');
